@@ -1,0 +1,5 @@
+/Users/yarallah/Projects/Hesap Makinesi/obj/Debug/net7.0/Hesap Makinesi.csproj.AssemblyReference.cache
+/Users/yarallah/Projects/Hesap Makinesi/obj/Debug/net7.0/Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yarallah/Projects/Hesap Makinesi/obj/Debug/net7.0/Hesap Makinesi.AssemblyInfoInputs.cache
+/Users/yarallah/Projects/Hesap Makinesi/obj/Debug/net7.0/Hesap Makinesi.AssemblyInfo.cs
+/Users/yarallah/Projects/Hesap Makinesi/obj/Debug/net7.0/Hesap Makinesi.csproj.CoreCompileInputs.cache
